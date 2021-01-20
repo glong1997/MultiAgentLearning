@@ -83,8 +83,7 @@
 #### 文章、回答
 
 1. [多智能体强化学习笔记05 值函数分解方法](https://zhuanlan.zhihu.com/p/134209510)
-
-
+2. [SMAC源码详解](docs/MARL/SMAC源码详解.md)
 
 ## 工具
 
