@@ -8,7 +8,15 @@ Terran：人族
 Zerg：虫族
 ```
 
+所有智能体的动作：
 
+```
+n_actions：一个智能体可以执行的所有动作，self.n_actions = self.n_actions_no_attack（6个非攻击动作，北、南、东、西、停止、阵亡 + self.n_enemies（4个动作，锁定敌人）
+n_agents：智能体的数量
+state_shape：全局状态的size，如果设置为局部观测，那么返回的get_obs_size() * n_agents
+obs_shape：每个智能体自身局部观测的size，根据get_obs_size()得到
+episode_limit：
+```
 
 ## main.py
 

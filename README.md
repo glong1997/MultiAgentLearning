@@ -34,7 +34,7 @@
 
 ### 深度学习
 
-
+1. [《PyTorch深度学习实践》完结合集](https://www.bilibili.com/video/BV1Y7411d7Ys)
 
 #### 视频
 
@@ -56,7 +56,7 @@
 
 #### 视频
 
-
+1. [[伏羲课堂]基于知识引导的强化学习相关算法介绍](https://www.bilibili.com/video/BV1mA411u7zg?t=704)
 
 #### 论文
 
@@ -66,7 +66,15 @@
 
 
 
+### 环境
 
+1. gym
+2. retro
+3. [high-way](docs/RL/high-way.md)
+
+#### 我的文章
+
+1. [浅谈强化学习](docs/RL/浅谈强化学习.md)
 
 
 
@@ -75,6 +83,7 @@
 #### 视频
 
 1. 知乎回答：[如何入门MARL（多智能体强化学习）？](https://www.zhihu.com/question/436486969/answer/1647519515)
+2. [【CAC2020Workshop】 孙长银、穆朝絮——多智能体深度强化学习的若干关键科学问题](https://www.bilibili.com/video/BV1YK4y1j7zV?from=search&seid=2319604069792408311)
 
 #### 论文
 
@@ -110,8 +119,4 @@
 5. [牛客网](https://www.nowcoder.com/)——工作面试
 
 
-
-## 工作经验
-
-1. Java开发
 
