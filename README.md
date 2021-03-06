@@ -30,6 +30,10 @@
 1. 知乎问题：[多智能体系统协同控制、最优控制、预测控制前景如何？](https://www.zhihu.com/question/363075215)
 2. 知乎问题：[关于多智能体领域你的看法是什么？](https://www.zhihu.com/question/27269292/answer/104397064)
 
+### 环境
+
+1. [airsim](docs/env/airsim.md)
+
 ## 多智能体强化学习
 
 ### 深度学习
