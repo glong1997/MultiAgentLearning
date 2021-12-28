@@ -4,11 +4,6 @@
 </p>
 
 
-在线阅读：https://xiyun0.gitee.io/multiagentlearning（国内访问，速度快）
-
-​				  https://xiyun0.github.io/MultiAgentLearning
-
-
 
 ## 多智能体系统
 
